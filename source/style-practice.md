@@ -1,0 +1,1 @@
+„Ahhoz, hogy a rendszert elindítsuk, először is az elsődleges szervert kell konfigurálni. Kérjük, nyissa meg a blacklist.txt fájlt a szövegszerkesztővel. Ha a fájl megnyílt, a felhasználónak rá kell kattintania az 'Engedélyezés' gombra a képernyő tetején. Ezután a terminálba be kell gépelni a sudo reboot parancsot, ami után a gép újra fog indulni.”
